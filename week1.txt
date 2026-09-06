@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> libaray Registration Form</title>
+    <title> libarayrecord Registration Form</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #f4f7f6; padding: 50px; }
         .container { max-width: 400px; background: white; padding: 20px; margin: auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
